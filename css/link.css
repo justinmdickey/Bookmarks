@@ -1,7 +1,7 @@
 .link {
   margin-bottom: 2em;
   margin-top: var(--header-height);
-  width: 100vw;
+  width: 98vw;
   position: relative;
   z-index: var(--z-index-link);
   display: none;
